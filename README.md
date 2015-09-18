@@ -8,8 +8,8 @@ A simple Alfred workflow for quickly locating and opening Sketch files
 4. Enjoy!
 
 #### Usage
-- Bring up Alfred and type on “sketch”, followed by a spacebar to initiate search for any `.sketch` files in your home folder.
-- Start typing a file name to bring up your matches.
+- Bring up Alfred and type on “sketch”, followed by a spacebar to display all recently opened files;
+- Initiate search for any `.sketch` files in your home directory, by typing its filename, to bring up your matches;
 
-> Only files modified in the last 30 days will be displayed, to help you narrow the results.
+> In Sketchflow v1.2.0, the file age restriction to 30 days was lifted. Now, Sketchflow will show you all possible matches from your home directory.
 
