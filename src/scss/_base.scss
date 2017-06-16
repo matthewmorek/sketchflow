@@ -31,6 +31,21 @@
   }
 }
 
+.section-padded-h {
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+  @include mq($md) {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  @include mq($lg) {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+}
+
 $container-sm: 34em;
 
 .section-wrapper-narrow { max-width: $container-sm; }
