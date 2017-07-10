@@ -1,4 +1,4 @@
-# Sketchflow
+# Sketchflow v1.3.0
 A simple Alfred workflow for quickly locating and opening Sketch files
 
 #### Installation & Usage
