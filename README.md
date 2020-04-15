@@ -4,7 +4,7 @@
 
 A simple Alfred workflow for quickly locating and opening Sketch files
 
-## What is it?
+## Why is it worth my time?
 
 If you use Sketch, you may have stumbled upon a daunting process of getting to open your recently modified designs as quickly as possible. For those of you who use [Alfred](http://alfredapp.com), I created a simple workflow which will help you get to your local design files much faster.
 
