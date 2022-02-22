@@ -25,4 +25,4 @@ If you use Sketch, you may have stumbled upon a daunting process of getting to o
 
 ---
 
-&copy; [Matthew Morek](https://matthewmorek.design)
+&copy; [Matthew Morek](https://matthewmorek.com)
